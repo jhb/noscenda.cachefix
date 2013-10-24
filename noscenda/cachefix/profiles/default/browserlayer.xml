@@ -1,0 +1,6 @@
+<layers>
+  <layer
+      name='noscenda.cachefix'
+      interface='noscenda.cachefix.interfaces.IAddOnInstalled'
+  />
+</layers>

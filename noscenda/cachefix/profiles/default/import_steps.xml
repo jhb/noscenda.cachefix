@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<import-steps>
+  <import-step id="noscenda.cachefix.various"
+               version="20131024-01"
+               handler="noscenda.cachefix.setuphandlers.setupVarious"
+               title="BA Cachefix: miscellaneous import steps">
+    Various import steps that are not handled by GS import/export
+    handlers.
+  </import-step>
+</import-steps>
